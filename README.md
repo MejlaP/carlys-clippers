@@ -2,6 +2,8 @@
 
 ## Codecademy project
 
+### Python - Loops
+
 Carly’s Clippers is the newest hair salon on the block. I have to go through the lists of data that have been collected in the past couple of weeks. I will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
 
 I have been provided with three lists: hairstyles, prices and last_week.
